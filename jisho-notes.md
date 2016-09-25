@@ -1,7 +1,7 @@
 #
 
 Id: 1
-Searchables: だ, です, だった, でした, だって, である, ではない, da, desu, datta, deshita, datte, dearu, dewanai, dehanai
+Searchables: だ, です, だった, でした, だって, である, ではない, dewanai
 
 Note:
 <p>
@@ -167,7 +167,7 @@ Note:
 #
 
 Id: 12
-Searchables: people, pronoun, pronouns, わたし, わたくし, ぼく, おれ, あたし, わし, washi, watashi, watakushi, atashi, boku, ore, anata, anta, temae, kisama, omae, kimi, 私, 僕, 俺, あなた, 君, きみ, お前, あんた, 手前, 貴様, てまえ, きさま, かれ, kare, 彼, kanojo, かのじょ, 彼女, parents, parent, 両親, ご両親, mom, mum, mother, はは, 母, okaasan, お母さん, dad, father, ちち, 父, お父さん, otousan, wife, tsuma, 妻, okusan, 奥さん, husband, 夫, otto, ご主人, sister, ane, あね, 姉, お姉さん, brother, あに, 兄, お兄さん, onisan, imouto, いもうと, 妹, 妹さん, otouto, おとうと, 弟, 弟さん, son, musuko, むすこ, 息子, 息子さん, daughter, musume, むすめ, 娘, 娘さん, oneesan
+Searchables: people, pronoun, pronouns, わたし, わたくし, ぼく, おれ, あたし, わし, 私, 僕, 俺, あなた, 君, きみ, お前, あんた, 手前, 貴様, てまえ, きさま, かれ, 彼, かのじょ, 彼女, parents, parent, 両親, ご両親, mom, mum, mother, はは, 母, お母さん, dad, father, ちち, 父, お父さん, wife, 妻, 奥さん, husband, 夫, ご主人, sister, あね, 姉, お姉さん, brother, あに, 兄, お兄さん, いもうと, 妹, 妹さん, おとうと, 弟, 弟さん, son, むすこ, 息子, 息子さん, daughter, むすめ, 娘, 娘さん
 
 Note:
 <ul>
@@ -223,7 +223,7 @@ Note:
 #
 
 Id: 16
-Searchables: と, って, to, tte
+Searchables: と, って
 
 Note:
 <ul>
@@ -237,7 +237,7 @@ Note:
 #
 
 Id: 17
-Searchables: という, toiu
+Searchables: という
 
 Note:
 <ul>
@@ -251,7 +251,7 @@ Note:
 #
 
 Id: 18
-Searchables: try, attempt, てみる, temiru, ようとする
+Searchables: try, attempt, てみる, ようとする, とする
 
 Note:
 <ul>
@@ -265,7 +265,7 @@ Note:
 #
 
 Id: 19
-Searchables: giving, give, receiving, receive, ageru, yaru, kureru, morau, あげる, やる, くれる, もらう, 上げる
+Searchables: giving, give, receiving, receive, あげる, やる, くれる, もらう, 上げる
 
 Note:
 <ul>
@@ -279,7 +279,7 @@ Note:
 #
 
 Id: 20
-Searchables: request, kudasai, ください, choudai, ちょうだい, 頂戴, nasai, なさい, 下さい
+Searchables: request, ください, ちょうだい, 頂戴, なさい, 下さい
 
 Note:
 <ul>
@@ -293,7 +293,7 @@ Note:
 #
 
 Id: 21
-Searchables: number, numbers, count, counting, 数字
+Searchables: number, numbers, count, counting, 数字, すうじ
 
 Note:
 <ul>
@@ -321,7 +321,7 @@ Note:
 #
 
 Id: 23
-Searchables: humble, polite, nasaru, irassharu, mairu, goran, haiken, ossharu, kudasaru, meshiagaru, gozonji, なさる, いらっしゃる, まいる, ごらん, はいけん, おっしゃる, くださる, めしあがる, ごぞんじ, 参る, ご覧, 拝見, 仰る, 下さる, 召し上がる, ご存知
+Searchables: humble, polite, なさる, いらっしゃる, まいる, ごらん, はいけん, おっしゃる, くださる, めしあがる, ごぞんじ, 参る, ご覧, 拝見, 仰る, 下さる, 召し上がる, ご存知
 
 Note:
 <ul>
@@ -335,7 +335,7 @@ Note:
 #
 
 Id: 24
-Searchables: unintentionally, teshimau, shimau, chau, jau, てしまう, しまう, ちゃう, じゃう
+Searchables: unintentionally, てしまう, しまう, ちゃう, じゃう
 
 Note:
 <ul>
@@ -349,7 +349,7 @@ Note:
 #
 
 Id: 25
-Searchables: koto, tokoro, mono, こと, ところ, もの, 事, 所, 物
+Searchables: こと, ところ, もの, 事, 所, 物
 
 Note:
 <ul>
@@ -363,7 +363,7 @@ Note:
 #
 
 Id: 26
-Searchables: kamoshirenai, deshou, darou, かもしれない, でしょう, だろう
+Searchables: かもしれない, でしょう, だろう, かもしれません, かも
 
 Note:
 <ul>
@@ -377,7 +377,7 @@ Note:
 #
 
 Id: 27
-Searchables: dake, nomi, shika, bakari, sugiru, hodo, sa, だけ, のみ, しか, ばかり, すぎる, ほど, さ
+Searchables: だけ, のみ, しか, ばかり, すぎる, ほど, さ
 
 Note:
 <ul>
@@ -391,7 +391,7 @@ Note:
 #
 
 Id: 28
-Searchables: you, mitai, sou, souda, rashii, ppoi, よう, みたい, そう, そうだ, らしい, っぽい
+Searchables: よう, みたい, そう, そうだ, らしい, っぽい
 
 Note:
 <ul>
@@ -405,7 +405,7 @@ Note:
 #
 
 Id: 29
-Searchables: yori, nohou, niyotte, niyoruto, より, のほう, の方, によって, によると, による
+Searchables: より, のほう, の方, によって, によると, による
 
 Note:
 <ul>
@@ -419,7 +419,7 @@ Note:
 #
 
 Id: 30
-Searchables: easy, difficult, yasui, nikui, やすい, にくい
+Searchables: easy, difficult, やすい, にくい
 
 Note:
 <ul>
@@ -433,7 +433,7 @@ Note:
 #
 
 Id: 31
-Searchables: wake, tosuru, わけ, とする
+Searchables: わけ, とする
 
 Note:
 <ul>
@@ -447,7 +447,7 @@ Note:
 #
 
 Id: 32
-Searchables: bakari, totan, nagara, makuru, ばかり, とたん, ながら, まくる
+Searchables: ばかり, とたん, ながら, まくる
 
 Note:
 <ul>
@@ -461,7 +461,7 @@ Note:
 #
 
 Id: 33
-Searchables: mama, ppanashi, sonomama, まま, っぱなし, そのまま
+Searchables: まま, っぱなし, そのまま
 
 Note:
 <ul>
@@ -475,7 +475,7 @@ Note:
 #
 
 Id: 34
-Searchables: hazu, beki, beku, bakarazu, はず, べき, べく, べからず
+Searchables: はず, べき, べく, べからず
 
 Note:
 <ul>
@@ -489,7 +489,7 @@ Note:
 #
 
 Id: 35
-Searchables: desae, desura, oroka, でさえ, ですら, おろか
+Searchables: でさえ, ですら, おろか
 
 Note:
 <ul>
@@ -503,7 +503,7 @@ Note:
 #
 
 Id: 36
-Searchables: garu, bakari, meku, がる, ばかり, めく
+Searchables: がる, ばかり, めく
 
 Note:
 <ul>
@@ -517,7 +517,7 @@ Note:
 #
 
 Id: 37
-Searchables: zaruwoenai, ざるをえない, ざるを得ない, yamuwoenai, やむをえない, やむを得ない, kaneru, かねる
+Searchables: ざるをえない, ざるを得ない, やむをえない, やむを得ない, かねる
 
 Note:
 <ul>
@@ -531,7 +531,7 @@ Note:
 #
 
 Id: 38
-Searchables: gachi, tsutsu, kiraigaaru, がち, つつ, きらいがある
+Searchables: がち, つつ, きらいがある
 
 Note:
 <ul>
@@ -545,7 +545,7 @@ Note:
 #
 
 Id: 39
-Searchables: mai, dearou, karou, まい, であろう, かろう
+Searchables: まい, であろう, かろう
 
 Note:
 <ul>
@@ -559,7 +559,7 @@ Note:
 #
 
 Id: 40
-Searchables: darake, mamire, zukume, だらけ, まみれ, ずくめ
+Searchables: だらけ, まみれ, ずくめ
 
 Note:
 <ul>
@@ -573,7 +573,7 @@ Note:
 #
 
 Id: 41
-Searchables: gahayaika, yainaya, sobakara, がはやいか, やいなや, そばから, が早いか, や否や
+Searchables: がはやいか, やいなや, そばから, が早いか, や否や
 
 Note:
 <ul>
@@ -587,7 +587,7 @@ Note:
 #
 
 Id: 42
-Searchables: omoikiya, gatera, ageku, 思いきや, おもいきや, がてら, あげく
+Searchables: 思いきや, おもいきや, がてら, あげく
 
 Note:
 <ul>
@@ -601,7 +601,7 @@ Note:
 #
 
 Id: 43
-Searchables: onomatopoeia, giongo, gitaigo, giseigo, ぎおんご, ぎたいご, ぎせいご, 擬音語, 擬態語, 擬声語
+Searchables: onomatopoeia, ぎおんご, ぎたいご, ぎせいご, 擬音語, 擬態語, 擬声語
 
 Note:
 <ul>
@@ -615,7 +615,7 @@ Note:
 #
 
 Id: 44
-Searchables: rendaku, れんだく, 連濁, voicing
+Searchables: れんだく, 連濁, voicing
 
 Note:
 <ul>
@@ -629,7 +629,7 @@ Note:
 #
 
 Id: 45
-Searchables: sumimasen, suman, 済みません, すみません, すまん, sorry, excuse me, thank you, thanks
+Searchables: 済みません, すみません, すまん, sorry, excuse me, thank you, thanks
 
 Note:
 <ul>
