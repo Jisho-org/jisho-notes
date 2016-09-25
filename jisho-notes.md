@@ -8,9 +8,6 @@ Note:
   The word だ, and its polite form です, is similar to the English word “is”. Here are a few good articles to learn more.
 </p>
 <ul>
-  <li>
-    Tofugu: <a href="http://www.tofugu.com/2009/01/20/learn-japanese-from-yoda/">Learn Japanese from Yoda</a>
-  </li>
     <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/stateofbeing">Expressing state-of-being</a>, <a href="http://www.guidetojapanese.org/learn/grammar/formal">Formal Expressions　（である、ではない）</a>
   </li>
@@ -99,7 +96,7 @@ Searchables: hiragana, ひらがな, 平仮名
 Note:
 <ul>
   <li>
-    Tofugu: <a href="http://www.tofugu.com/2010/10/13/hiragana-guide/">A Step-By-Step Guide On How To Learn Hiragana</a>
+    Tofugu: <a href="http://www.tofugu.com/japanese/learn-hiragana/">Learn Hiragana: The Ultimate Guide</a>
   </li>
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/hiragana">Hiragana</a>
@@ -156,7 +153,7 @@ Note:
 #
 
 Id: 11
-Searchables: verb, verbs, 動詞、transitive, intransitive, past, present, potential, causative, passive
+Searchables: verb, verbs, intransitive, past, present, potential, causative, passive, 動詞, transitive
 
 Note:
 <ul>
@@ -170,7 +167,7 @@ Note:
 #
 
 Id: 12
-Searchables: people, pronoun, pronouns, わたし, わたくし, ぼく, おれ, あたし, わし, washi, watashi, watakushi, atashi, boku, ore, anata, anta, temae, kisama, omae, kimi, 私, 僕, 俺, あなた, 君, きみ, お前, あんた, 手前, 貴様, てまえ, きさま, かれ, kare, 彼, kanojo, かのじょ, 彼女, parents, parent, 両親, ご両親, mom, mum, mother, はは, 母, okaasan, お母さん, dad, father, ちち, 父, お父さん, otousan, wife, tsuma, 妻, okusan, 奥さん, husband, 夫, otto, ご主人, sister, ane, あね, 姉, onesan, お姉さん, brother, あに, 兄, お兄さん, onisan, imouto, いもうと, 妹, 妹さん, otouto, おとうと, 弟, 弟さん, son, musuko, むすこ, 息子, 息子さん, daughter, musume, むすめ, 娘, 娘さん
+Searchables: people, pronoun, pronouns, わたし, わたくし, ぼく, おれ, あたし, わし, washi, watashi, watakushi, atashi, boku, ore, anata, anta, temae, kisama, omae, kimi, 私, 僕, 俺, あなた, 君, きみ, お前, あんた, 手前, 貴様, てまえ, きさま, かれ, kare, 彼, kanojo, かのじょ, 彼女, parents, parent, 両親, ご両親, mom, mum, mother, はは, 母, okaasan, お母さん, dad, father, ちち, 父, お父さん, otousan, wife, tsuma, 妻, okusan, 奥さん, husband, 夫, otto, ご主人, sister, ane, あね, 姉, お姉さん, brother, あに, 兄, お兄さん, onisan, imouto, いもうと, 妹, 妹さん, otouto, おとうと, 弟, 弟さん, son, musuko, むすこ, 息子, 息子さん, daughter, musume, むすめ, 娘, 娘さん, oneesan
 
 Note:
 <ul>
@@ -212,7 +209,7 @@ Note:
 #
 
 Id: 15
-Searchables: desire, want, volitional, たい, ほしい, 欲しい
+Searchables: desire, want, volitional, たい, ほしい, 欲しい, たらどう
 
 Note:
 <ul>
@@ -254,7 +251,7 @@ Note:
 #
 
 Id: 18
-Searchables: try, attempt, てみる, temiru
+Searchables: try, attempt, てみる, temiru, ようとする
 
 Note:
 <ul>
@@ -282,7 +279,7 @@ Note:
 #
 
 Id: 20
-Searchables: request, kudasai, ください, choudai, ちょうだい, 頂戴, nasai, なさい
+Searchables: request, kudasai, ください, choudai, ちょうだい, 頂戴, nasai, なさい, 下さい
 
 Note:
 <ul>
@@ -310,7 +307,7 @@ Note:
 #
 
 Id: 22
-Searchables: slang
+Searchables: slang, 俗語, ぞくご
 
 Note:
 <ul>
@@ -609,7 +606,7 @@ Searchables: onomatopoeia, giongo, gitaigo, giseigo, ぎおんご, ぎたいご,
 Note:
 <ul>
   <li>
-    Tofugu: <a href="http://www.tofugu.com/guides-old/japanese-onomatopoeia-guide/">Japanese Onomatopoeia Guide</a>
+    Tofugu: <a href="http://www.tofugu.com/japanese/japanese-onomatopoeia/">Japanese Onomatopoeia: The Definitive Guide</a>
   </li>
 </ul>
 
@@ -618,20 +615,6 @@ Note:
 #
 
 Id: 44
-Searchables: senpai, sempai, kohai, kouhai, せんぱい, こうはい, 先輩, 後輩, senior, superior, elder, junior
-
-Note:
-<ul>
-  <li>
-    Tofugu: <a href="http://www.tofugu.com/guides-old/understanding-the-senpaikohai-system/">Understanding The Senpai/Kohai System</a>
-  </li>
-</ul>
-
----
-
-#
-
-Id: 45
 Searchables: rendaku, れんだく, 連濁, voicing
 
 Note:
@@ -645,13 +628,13 @@ Note:
 
 #
 
-Id: 46
+Id: 45
 Searchables: sumimasen, suman, 済みません, すみません, すまん, sorry, excuse me, thank you, thanks
 
 Note:
 <ul>
   <li>
-    Tofugu: <a href="http://www.tofugu.com/2013/10/24/sorry-for-saying-thank-you-the-many-uses-of-sumimasen/">Sorry for Saying Thank You: The Many Uses Of Sumimasen</a>
+    Tofugu: <a href="http://www.tofugu.com/japanese/sumimasen/">Sorry for Saying Thank You</a>
   </li>
 </ul>
 
