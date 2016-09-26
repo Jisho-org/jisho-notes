@@ -49,7 +49,7 @@ Note:
 #
 
 Id: 4
-Searchables: hanpa nai, hanpanai, hampa nai, hampanai, 半端ない, ハンパない, はんぱない
+Searchables: 半端ない, ハンパない, はんぱない
 
 Note:
 <ul>
@@ -63,7 +63,7 @@ Note:
 #
 
 Id: 5
-Searchables: mugiyu, mugicha, むぎゆ, むぎちゃ, 麦湯, 麦茶, barley tea
+Searchables: むぎゆ, むぎちゃ, 麦湯, 麦茶, barley tea
 
 Note:
 <ul>
@@ -91,7 +91,7 @@ Note:
 #
 
 Id: 7
-Searchables: hiragana, ひらがな, 平仮名
+Searchables: ひらがな, 平仮名
 
 Note:
 <ul>
@@ -108,7 +108,7 @@ Note:
 #
 
 Id: 8
-Searchables: katakana, カタカナ, かたかな, 片仮名
+Searchables: カタカナ, かたかな, 片仮名
 
 Note:
 <ul>
@@ -125,7 +125,7 @@ Note:
 #
 
 Id: 9
-Searchables: kanji, かんじ, 漢字
+Searchables: かんじ, 漢字
 
 Note:
 <ul>
@@ -139,7 +139,7 @@ Note:
 #
 
 Id: 10
-Searchables: adjectives, adjective, keiyoushi, 形容詞
+Searchables: adjectives, adjective, 形容詞, けいようし
 
 Note:
 <ul>
@@ -153,7 +153,7 @@ Note:
 #
 
 Id: 11
-Searchables: verb, verbs, intransitive, past, present, potential, causative, passive, 動詞, transitive
+Searchables: verb, verbs, intransitive, past, present, potential, causative, passive, 動詞, transitive, どうし
 
 Note:
 <ul>
@@ -167,7 +167,7 @@ Note:
 #
 
 Id: 12
-Searchables: people, pronoun, pronouns, わたし, わたくし, ぼく, おれ, あたし, わし, 私, 僕, 俺, あなた, 君, きみ, お前, あんた, 手前, 貴様, てまえ, きさま, かれ, 彼, かのじょ, 彼女, parents, parent, 両親, ご両親, mom, mum, mother, はは, 母, お母さん, dad, father, ちち, 父, お父さん, wife, 妻, 奥さん, husband, 夫, ご主人, sister, あね, 姉, お姉さん, brother, あに, 兄, お兄さん, いもうと, 妹, 妹さん, おとうと, 弟, 弟さん, son, むすこ, 息子, 息子さん, daughter, むすめ, 娘, 娘さん
+Searchables: people, pronoun, pronouns, わたし, わたくし, ぼく, おれ, あたし, わし, 私, 僕, 俺, あなた, 君, きみ, お前, あんた, 手前, 貴様, てまえ, きさま, かれ, 彼, かのじょ, 彼女, parents, parent, 両親, ご両親, mom, mum, mother, はは, 母, お母さん, dad, father, ちち, 父, お父さん, wife, 妻, 奥さん, husband, 夫, ご主人, sister, あね, 姉, お姉さん, brother, あに, 兄, お兄さん, いもうと, 妹, 妹さん, おとうと, 弟, 弟さん, son, むすこ, 息子, 息子さん, daughter, むすめ, 娘, 娘さん, おまえ, りょうしん, ごりょうしん, おとうさん, おかあさん, つま, おくさん, おねえさん, おにいさん, いもうとさん, おとうとさん, むすこさん, むすめさん
 
 Note:
 <ul>
@@ -363,7 +363,7 @@ Note:
 #
 
 Id: 26
-Searchables: かもしれない, でしょう, だろう, かもしれません, かも
+Searchables: かもしれない, でしょう, だろう, かもしれません, かも, かも知れない, かも知れません
 
 Note:
 <ul>
@@ -639,3 +639,4 @@ Note:
 </ul>
 
 ---
+
