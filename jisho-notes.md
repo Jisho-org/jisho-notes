@@ -615,6 +615,22 @@ Note:
 #
 
 Id: 44
+Searchables:
+Searchables-old: kohai, せんぱい, こうはい, 先輩, 後輩, senior, superior, elder, junior
+
+Note:
+<ul>
+  <li>
+    <!-- This article no longer exists -->
+    Tofugu: <a href="http://www.tofugu.com/guides-old/understanding-the-senpaikohai-system/">Understanding The Senpai/Kohai System</a>
+  </li>
+</ul>
+
+---
+
+#
+
+Id: 45
 Searchables: れんだく, 連濁, voicing
 
 Note:
@@ -628,7 +644,7 @@ Note:
 
 #
 
-Id: 45
+Id: 46
 Searchables: 済みません, すみません, すまん, sorry, excuse me, thank you, thanks
 
 Note:
