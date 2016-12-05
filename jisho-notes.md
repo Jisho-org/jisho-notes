@@ -296,6 +296,7 @@ Note:
   </li>
   <li>
     imabi: <a href="http://www.imabi.net/l108try.htm">Try I</a>, <a href="http://www.imabi.net/tryii.htm">Try II</a>
+  </li>
 </ul>
 
 ---
@@ -312,6 +313,7 @@ Note:
   </li>
   <li>
     imabi: <a href="http://www.imabi.net/l88tegivingverbs.htm">Te + Giving Verbs</a>
+  </li>
 </ul>
 
 ---
