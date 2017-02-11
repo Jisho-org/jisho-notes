@@ -12,7 +12,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/stateofbeing">Expressing state-of-being</a>, <a href="http://www.guidetojapanese.org/learn/grammar/formal">Formal Expressions　（である、ではない）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l8dadesu.htm">Da & Desu</a>
+    imabi: <a href="http://www.imabi.net/dadesu.htm">Da & Desu</a>
   </li>
 </ul>
 
@@ -105,7 +105,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/hiragana">Hiragana</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l2kanaihiragana.htm">Kana I: Hiragana</a>
+    imabi: <a href="http://www.imabi.net/hiragana.htm">Kana I: Hiragana</a>
   </li>
 </ul>
 
@@ -125,7 +125,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/katakana">Katakana</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l3kanaiikatakana.htm">Kana II: Katakana</a>
+    imabi: <a href="http://www.imabi.net/katakana.htm">Kana II: Katakana</a>
   </li>
 </ul>
 
@@ -142,7 +142,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/kanji">Kanji</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l5kanjiintro.htm">Kanji Intro</a>
+    imabi: <a href="http://www.imabi.net/kanjiintro.htm">Kanji Intro</a>
   </li>
 </ul>
 
@@ -159,7 +159,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/adjectives">Adjectives</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l10adjectives.htm">Adjectives I</a> & <a href="http://www.imabi.net/l11adjectivesii.htm">Adjectives II</a>
+    imabi: <a href="http://www.imabi.net/adjectives.htm">Adjectives I</a> & <a href="http://www.imabi.net/adjectivesii.htm">Adjectives II</a>
   </li>
 </ul>
 
@@ -176,7 +176,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/verbs">Verb Basics</a>, <a href="http://www.guidetojapanese.org/learn/grammar/negativeverbs">Negative Verbs</a>, <a href="http://www.guidetojapanese.org/learn/grammar/past_tense">Past Tense</a>, <a href="http://www.guidetojapanese.org/learn/grammar/in-transitive">Transitive and Intransitive Verbs</a>, <a href="http://www.guidetojapanese.org/learn/grammar/potential">Potential Form</a>, <a href="http://www.guidetojapanese.org/learn/grammar/causepass">Causative and Passive Verbs</a>, <a href="http://www.guidetojapanese.org/learn/grammar/negativeverbs2">More negative verbs　（ないで、ず、～ん、ぬ）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l13regularverbsi.htm">Regular Verbs I</a> & <a href="http://www.imabi.net/l14regularverbsii.htm">Regular Verbs II</a>
+    imabi: <a href="http://www.imabi.net/regularverbsi.htm">Regular Verbs I</a> & <a href="http://www.imabi.net/regularverbsii.htm">Regular Verbs II</a>
   </li>
 </ul>
 
@@ -193,7 +193,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/people">Addressing People</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l77pronounsii.htm">Pronouns</a>
+    imabi: <a href="http://www.imabi.net/pronounsii.htm">Pronouns</a>
   </li>
 </ul>
 
@@ -210,7 +210,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/conditionals">Conditionals （と、なら、ば、たら）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l99theconditionals.htm">Conditionals I</a> & <a href="http://www.imabi.net/l100conditionalphrases.htm">Conditionals II</a>
+    imabi: <a href="http://www.imabi.net/theconditionals.htm">Conditionals I</a> & <a href="http://www.imabi.net/conditionalphrases.htm">Conditionals II</a>
   </li>
 </ul>
 
@@ -227,7 +227,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/must">Expressing "must" or "have to"　（～だめ、～いけない、～ならない、～ても）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l101mustnot.htm">Must Not</a> & <a href="http://www.imabi.net/l102must.htm">Must</a>
+    imabi: <a href="http://www.imabi.net/mustnot.htm">Must Not</a> & <a href="http://www.imabi.net/must.htm">Must</a>
   </li>
 </ul>
 
@@ -244,7 +244,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/desire">Desire and Suggestions　（たい、欲しい、volitional、～たらどう）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l98wantfeeling.htm">Want & Feeling</a>, <a href="http://www.imabi.net/garu.htm">Want & Feeling II</a>, <a href="http://www.imabi.net/l141thevolitionali.htm">Volitional I</a>, <a href="http://www.imabi.net/l142thevolitionalii.htm">Volitional II</a>, <a href="http://www.imabi.net/l218thevolitionaliii.htm">Volitional III</a>
+    imabi: <a href="http://www.imabi.net/wantfeeling.htm">Want & Feeling</a>, <a href="http://www.imabi.net/garu.htm">Want & Feeling II</a>, <a href="http://www.imabi.net/thevolitionali.htm">Volitional I</a>, <a href="http://www.imabi.net/thevolitionalii.htm">Volitional II</a>, <a href="http://www.imabi.net/thevolitionaliii.htm">Volitional III</a>
   </li>
 </ul>
 
@@ -261,7 +261,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/actionclause">Performing an action on a subordinate clause （と、って）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l51citation.htm">The Particle と II</a>, <a href="http://www.imabi.net/l184tonegative.htm">The Particle と III</a>, <a href="http://www.imabi.net/l200ttetattedatte.htm">The Particles って, たって, & だって</a>
+    imabi: <a href="http://www.imabi.net/citation.htm">The Particle と II</a>, <a href="http://www.imabi.net/tonegative.htm">The Particle と III</a>, <a href="http://www.imabi.net/ttetattedatte.htm">The Particles って, たって, & だって</a>
   </li>
 </ul>
 
@@ -295,7 +295,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/try">Trying something out or attempting to do something　（～てみる、volitional+とする）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l108try.htm">Try I</a>, <a href="http://www.imabi.net/tryii.htm">Try II</a>
+    imabi: <a href="http://www.imabi.net/trying.htm">Try I</a>, <a href="http://www.imabi.net/tryii.htm">Try II</a>
   </li>
 </ul>
 
@@ -312,7 +312,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/favors">Giving and Receiving　（あげる、やる、くれる、もらう）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l88tegivingverbs.htm">Te + Giving Verbs</a>
+    imabi: <a href="http://www.imabi.net/tegivingverbs.htm">Te + Giving Verbs</a>
   </li>
 </ul>
 
@@ -343,7 +343,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/numbers">Numbers and Counting</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l21numbersi.htm">Numbers I</a>, <a href="http://www.imabi.net/l22numbersiicounters.htm">Numbers II</a>, <a href="http://www.imabi.net/l85twokindsofs.htm">Numbers III</a>, <a href="http://www.imabi.net/l8647and9.htm">Numbers IV</a>, <a href="http://www.imabi.net/l104readingcounterphrases.htm">Numbers V</a>, <a href="http://www.imabi.net/l115numbersviordinal.htm">Numbers VI</a>, <a href="http://www.imabi.net/l116numbersviicountersii.htm">Numbers VII</a>, <a href="http://www.imabi.net/l208roundnumbers.htm">Numbers VIII</a>, <a href="http://www.imabi.net/l209numbersix.htm">Numbers IX</a>, <a href="http://www.imabi.net/l210measurements.htm">Numbers X</a>, <a href="http://www.imabi.net/l317numbers.htm">Numbers XI</a>
+    imabi: <a href="http://www.imabi.net/numbersi.htm">Numbers I</a>, <a href="http://www.imabi.net/countersi.htm">Numbers II</a>, <a href="http://www.imabi.net/twokindsofs.htm">Numbers III</a>, <a href="http://www.imabi.net/47and9.htm">Numbers IV</a>, <a href="http://www.imabi.net/readingcounterphrases.htm">Numbers V</a>, <a href="http://www.imabi.net/numbersviordinal.htm">Numbers VI</a>, <a href="http://www.imabi.net/numbersviicountersii.htm">Numbers VII</a>, <a href="http://www.imabi.net/roundingnumbers.htm">Numbers VIII</a>, <a href="http://www.imabi.net/numbersix.htm">Numbers IX</a>, <a href="http://www.imabi.net/measurements.htm">Numbers X</a>, <a href="http://www.imabi.net/numbers.htm">Numbers XI</a>
   </li>
 </ul>
 
@@ -360,7 +360,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/slang">Casual Patterns and Slang</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l261slangruverbs.htm">Slang ru Verbs</a>
+    imabi: <a href="http://www.imabi.net/slangruverbs.htm">Slang ru Verbs</a>
   </li>
 </ul>
 
@@ -377,7 +377,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/honorific">Honorific and Humble Forms</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/keigoverbs.htm">Keigo Verb List</a>, <a href="http://www.imabi.net/l145honititles.htm">Honorifics I</a>, <a href="http://www.imabi.net/l146honiinouns.htm">Honorifics II</a>, <a href="http://www.imabi.net/l147honiiiadj.htm">Honorifics III</a>, <a href="http://www.imabi.net/l148lightkeigo.htm">Honorifics IV</a>, <a href="http://www.imabi.net/l149honvregverbs.htm">Honorifics V</a>, <a href="http://www.imabi.net/l150honviirregi.htm">Honorifics VI</a>, <a href="http://www.imabi.net/l262honviirregii.htm">Honorifics VI 2</a>
+    imabi: <a href="http://www.imabi.net/keigoverbs.htm">Keigo Verb List</a>, <a href="http://www.imabi.net/honititles.htm">Honorifics I</a>, <a href="http://www.imabi.net/honiinouns.htm">Honorifics II</a>, <a href="http://www.imabi.net/honiiiadj.htm">Honorifics III</a>, <a href="http://www.imabi.net/lightkeigo.htm">Honorifics IV</a>, <a href="http://www.imabi.net/honvregverbs.htm">Honorifics V</a>, <a href="http://www.imabi.net/honviirregi.htm">Honorifics VI</a>, <a href="http://www.imabi.net/honviirregii.htm">Honorifics VI 2</a>
   </li>
 </ul>
 
@@ -394,7 +394,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/unintended">Things that happen unintentionally　（～てしまう、～ちゃう／～じゃう）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l97teshimau.htm">～てしまう</a>
+    imabi: <a href="http://www.imabi.net/teshimau.htm">～てしまう</a>
   </li>
 </ul>
 
@@ -411,7 +411,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/genericnouns">Special expressions with generic nouns （こと、ところ、もの）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l112nominalization.htm">Nominalization</a>, <a href="http://www.imabi.net/l113kotoexpressions.htm">Koto expressions</a>
+    imabi: <a href="http://www.imabi.net/nominalization.htm">Nominalization</a>, <a href="http://www.imabi.net/kotoexpressions.htm">Koto expressions</a>
   </li>
 </ul>
 
@@ -428,7 +428,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/certainty">Expressing various levels of certainty　（かもしれない、でしょう、だろう）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l87might.htm">Might</a>
+    imabi: <a href="http://www.imabi.net/might.htm">Might</a>
   </li>
 </ul>
 
@@ -445,7 +445,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/amount">Expressing amounts　（だけ、のみ、しか、ばかり、すぎる、Amount+も、ほど、さ）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l78theparticledake.htm">The Particle dake</a>
+    imabi: <a href="http://www.imabi.net/theparticledake.htm">The Particle dake</a>
   </li>
 </ul>
 
@@ -462,7 +462,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/similarity">Various ways to express similarity and hearsay　（よう、～みたい、～そう、～そうだ、～らしい、～っぽい）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l138similarity.htm">Similarity</a>, <a href="http://www.imabi.net/l139seem.htm">Seem</a>, <a href="http://www.imabi.net/l140hearsay.htm">Hearsay</a>
+    imabi: <a href="http://www.imabi.net/similarity.htm">Similarity</a>, <a href="http://www.imabi.net/seem.htm">Seem</a>, <a href="http://www.imabi.net/hearsay.htm">Hearsay</a>
   </li>
 </ul>
 
@@ -479,7 +479,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/comparison">Using 方 and よる for comparisons and other functions　（より、の方、stem＋方、によって、によると）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l136theparticleyori.htm">The Particle yori</a>, <a href="http://www.imabi.net/l137thesuperlative.htm">Superlative</a>
+    imabi: <a href="http://www.imabi.net/theparticleyori.htm">The Particle yori</a>, <a href="http://www.imabi.net/thesuperlative.htm">Superlative</a>
   </li>
 </ul>
 
@@ -496,7 +496,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/easyhard">Saying something is easy or difficult to do　（～やすい、～にくい）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l122easydifficult.htm">Easy & Difficult</a>
+    imabi: <a href="http://www.imabi.net/easydifficult.htm">Easy & Difficult</a>
   </li>
 </ul>
 
@@ -513,7 +513,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/reasoning">Hypothesizing and Concluding （わけ、～とする）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l203reason.htm">Reason</a>
+    imabi: <a href="http://www.imabi.net/reason.htm">Reason</a>
   </li>
 </ul>
 
@@ -530,7 +530,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/timeactions">Expressing time-specific actions （ばかり、とたんに、ながら、まくる）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l186assoonas.htm">As soon as</a>
+    imabi: <a href="http://www.imabi.net/assoonas.htm">As soon as</a>
   </li>
 </ul>
 
@@ -547,7 +547,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/nochange">Leaving something the way it is　（まま、っぱなし）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l196circumstance.htm">Circumstances</a>
+    imabi: <a href="http://www.imabi.net/circumstance.htm">Circumstances</a>
   </li>
 </ul>
 
@@ -564,7 +564,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/should">Things that should be a certain way （はず、べき、べく、べからず）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l158obligation.htm">Obligation</a>
+    imabi: <a href="http://www.imabi.net/obligation.htm">Obligation</a>
   </li>
 </ul>
 
@@ -581,7 +581,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/even">Expressing the minimum expectation （でさえ、ですら、おろか）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l194saesuradani.htm">Sae, Sura, Dani</a>
+    imabi: <a href="http://www.imabi.net/saesuradani.htm">Sae, Sura, Dani</a>
   </li>
 </ul>
 
@@ -612,7 +612,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/feasibility">Formal expressions of non-feasibility　（～ざるを得ない、やむを得ない、～かねる）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l189zaruwoenai.htm">～ざるを得ない</a>
+    imabi: <a href="http://www.imabi.net/zaruwoenai.htm">～ざるを得ない</a>
   </li>
 </ul>
 
@@ -699,7 +699,7 @@ Note:
     Tofugu: <a href="http://www.tofugu.com/japanese/japanese-onomatopoeia/">Japanese Onomatopoeia: The Definitive Guide</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l41onomatopoeia.htm">Onomatopoeia</a>
+    imabi: <a href="http://www.imabi.net/onomatopoeia.htm">Onomatopoeia</a>
   </li>
 </ul>
 
@@ -732,7 +732,7 @@ Note:
     Tofugu: <a href="http://www.tofugu.com/guides/rendaku-sequential-voicing/">Rendaku aka “Sequential Voicing”</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/l289rendaku.htm">Rendaku</a>
+    imabi: <a href="http://www.imabi.net/rendaku.htm">Rendaku</a>
   </li>
 </ul>
 
@@ -760,7 +760,7 @@ Searchables: pronunciation, 発音, はつおん, pitch accent, 高低アクセ�
 Note:
 <ul>
   <li>
-    imabi: <a href="http://www.imabi.net/l1pronunciation.htm">Pronunciation</a>
+    imabi: <a href="http://www.imabi.net/pronunciation.htm">Pronunciation</a>
   </li>
 </ul>
 
