@@ -12,7 +12,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/stateofbeing">Expressing state-of-being</a>, <a href="http://www.guidetojapanese.org/learn/grammar/formal">Formal Expressions　（である、ではない）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/dadesu.htm">Da & Desu</a>
+    imabi: <a href="https://www.imabi.net/copularsentencesi.htm">Copular Sentences I</a>, <a href="https://www.imabi.net/copularsentencesii.htm">Copular Sentences II</a>, <a href="https://www.imabi.net/thecopulaii.htm">The Copula II</a>
   </li>
 </ul>
 
@@ -119,7 +119,7 @@ Searchables: カタカナ, かたかな, 片仮名
 Note:
 <ul>
   <li>
-    Tofugu: <a href="http://www.tofugu.com/resources/katakana-chart/">Katakana chart</a>
+    Tofugu: <a href="http://www.tofugu.com/japanese/learn-katakana/">Learn Katakana Guide</a>
   </li>
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/katakana">Katakana</a>
@@ -377,7 +377,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/honorific">Honorific and Humble Forms</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/keigoverbs.htm">Keigo Verb List</a>, <a href="http://www.imabi.net/honititles.htm">Honorifics I</a>, <a href="http://www.imabi.net/honiinouns.htm">Honorifics II</a>, <a href="http://www.imabi.net/honiiiadj.htm">Honorifics III</a>, <a href="http://www.imabi.net/lightkeigo.htm">Honorifics IV</a>, <a href="http://www.imabi.net/honvregverbs.htm">Honorifics V</a>, <a href="http://www.imabi.net/honviirregi.htm">Honorifics VI</a>, <a href="http://www.imabi.net/honviirregii.htm">Honorifics VI 2</a>
+    imabi: <a href="http://www.imabi.net/honititles.htm">Honorifics I</a>, <a href="http://www.imabi.net/honiinouns.htm">Honorifics II</a>, <a href="http://www.imabi.net/honiiiadj.htm">Honorifics III</a>, <a href="http://www.imabi.net/lightkeigo.htm">Honorifics IV</a>, <a href="http://www.imabi.net/honvregverbs.htm">Honorifics V</a>, <a href="http://www.imabi.net/honviirregi.htm">Honorifics VI</a>, <a href="http://www.imabi.net/honviirregii.htm">Honorifics VI 2</a>
   </li>
 </ul>
 
@@ -505,7 +505,7 @@ Note:
 #
 
 Id: 31
-Searchables: わけ, とする
+Searchables: わけ, とする, わけだ
 
 Note:
 <ul>
@@ -513,7 +513,7 @@ Note:
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/reasoning">Hypothesizing and Concluding （わけ、～とする）</a>
   </li>
   <li>
-    imabi: <a href="http://www.imabi.net/reason.htm">Reason</a>
+    imabi: <a href="https://www.imabi.net/wakeda.htm">わけだ</a>
   </li>
 </ul>
 
@@ -760,8 +760,9 @@ Searchables: pronunciation, 発音, はつおん, pitch accent, 高低アクセ�
 Note:
 <ul>
   <li>
-    imabi: <a href="http://www.imabi.net/pronunciation.htm">Pronunciation</a>
+    imabi: <a href="https://www.imabi.net/pronunciationi.htm">Pronunciation I</a>, <a href="https://www.imabi.net/pronunciationii.htm">Pronunciation II</a>
   </li>
 </ul>
 
 ---
+
