@@ -79,20 +79,6 @@ Note:
 
 #
 
-Id: 6
-Searchables: 行け, 行きな, 行きなさい
-
-Note:
-<ul>
-  <li>
-    Jisho.org Forum: <a href="http://forum.jisho.org/discussion/1023/行け-and-行きな/">行け and 行きな?</a>
-  </li>
-</ul>
-
----
-
-#
-
 Id: 7
 Searchables: ひらがな, 平仮名
 
