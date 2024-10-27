@@ -592,6 +592,9 @@ Note:
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/signs">Showing signs of something （～がる、ばかり、～めく）</a>
   </li>
+  <li>
+    IMABI: <a href="https://imabi.org/the-auxiliary-verb-～がる/">The Auxiliary Verb ～がる</a>, <a href="https://imabi.org/suf-viappearance/">Suf. VI:Appearance</a>
+  </li>
 </ul>
 
 ---
@@ -616,12 +619,15 @@ Note:
 #
 
 Id: 38
-Searchables: がち, つつ, きらいがある
+Searchables: がち, つつ, 嫌いがある, きらいがある
 
 Note:
 <ul>
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/tendency">Tendencies （～がち、～つつ、きらいがある）</a>
+  </li>
+  <li>
+    IMABI: <a href="https://imabi.org/tendency/">Tendency</a>
   </li>
 </ul>
 
@@ -636,6 +642,9 @@ Note:
 <ul>
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/volitional2">Advanced Volitional　（まい、であろう、かろう）</a>
+  </li>
+  <li>
+    IMABI: <a href="https://imabi.org/negative-volition-～まい/">Negative Volition: ～まい</a>
   </li>
 </ul>
 
