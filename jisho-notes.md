@@ -660,6 +660,9 @@ Note:
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/covered">Covered by something （だらけ、まみれ、ずくめ）</a>
   </li>
+  <li>
+    IMABI: <a href="https://imabi.org/suf-viappearance/">Suf. VI:Appearance</a>
+  </li>
 </ul>
 
 ---
@@ -674,6 +677,9 @@ Note:
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/immedate">Advanced proximity of actions （が早いか、や否や、そばから）</a>
   </li>
+  <li>
+    IMABI: <a href="https://imabi.org/tendency/">Tendency</a>
+  </li>
 </ul>
 
 ---
@@ -687,6 +693,9 @@ Note:
 <ul>
   <li>
     Tae Kim's Guide to Learning Japanese: <a href="http://www.guidetojapanese.org/learn/grammar/other">Others （思いきや、がてら、あげく）</a>
+  </li>
+  <li>
+    IMABI: <a href="https://imabi.org/circumstance/">Circumstance</a>, <a href="https://imabi.org/incidental/">Incidental</a>, <a href="https://imabi.org/result/">Result</a>
   </li>
 </ul>
 
